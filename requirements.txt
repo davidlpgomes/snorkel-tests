@@ -1,0 +1,6 @@
+gensim
+matplotlib
+numpy
+pandas
+snorkel
+sklearn
